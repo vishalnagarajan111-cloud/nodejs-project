@@ -1,0 +1,7 @@
+const http=require("http");
+const server =http.createServer((req,res)=>{
+    res.write("server is started....")
+});
+server.listen(5000,()=>{
+    console.log("server is started at port number 5000")
+});+

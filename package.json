@@ -1,0 +1,23 @@
+{
+  "name": "mynodejs_application",
+  "version": "1.0.0",
+  "description": "First node js application",
+  "keywords": [
+    ".shikuyaa.com"
+  ],
+  "homepage": "https://github.com/vishalnagarajan111-cloud/Generative-AI#readme",
+  "bugs": {
+    "url": "https://github.com/vishalnagarajan111-cloud/Generative-AI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalnagarajan111-cloud/Generative-AI.git"
+  },
+  "license": "ISC",
+  "author": "Vishal nagarajan",
+  "type": "y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
